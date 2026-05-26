@@ -88,7 +88,7 @@ can contain system prompts and should be reviewed before sharing.
 
 ## Author
 
-Built by [Your Name] as a learning project in AI security research.
+Built by Aiden Fleming as a learning project in AI security research.
 
 ## License
 
